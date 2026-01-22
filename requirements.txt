@@ -1,6 +1,7 @@
 sentence-transformers
 numpy
 fastapi
+gunicorn
 uvicorn
 torch
 transformers
